@@ -1,5 +1,6 @@
 # Paramount
-# > Paramount+
+# > Paramount
+USER-AGENT,PPlus*
 HOST-SUFFIX,cbsi.com
 HOST-SUFFIX,cbsaavideo.com
 HOST-SUFFIX,cbsivideo.com
